@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 from fifo import FIFO
 from lru import LRU
